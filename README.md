@@ -19,6 +19,6 @@ Contribuições são bem-vindas! Se você encontrar algum problema, tiver uma id
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-[Asas do Desconto](http://asasdodesconto.com/) - Cupons de Desconto 2023
+[Asas do Desconto](https://asasdodesconto.com/) - Cupons de Desconto 2023
 
 ---
